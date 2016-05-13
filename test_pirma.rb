@@ -1,7 +1,7 @@
 require "test/unit"
 require "./Pirma"
 
-class TestTriangleHeronian < Test::Unit::TestCase
+class TestMultiply < Test::Unit::TestCase
 
   def test_sum
     sum = Numbers.new(5, 4)
